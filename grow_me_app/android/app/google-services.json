@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629891743180",
+    "firebase_url": "https://growme-flutter.firebaseio.com",
+    "project_id": "growme-flutter",
+    "storage_bucket": "growme-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629891743180:android:7834b5361ec713420cf169",
+        "android_client_info": {
+          "package_name": "com.example.grow_me_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629891743180-tjqqcu5kquqgvvs7484hpaiv4ggdu2g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC1u49Y_0zNmmHClqFRpg7BVAsm9066m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629891743180-tjqqcu5kquqgvvs7484hpaiv4ggdu2g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629891743180-81ib9s77kroe3lgbfer5kgq52667era0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andy.growMeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

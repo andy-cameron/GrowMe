@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>629891743180-09qbgk1tdehb3comdkt5if8cv0bi95nr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.629891743180-09qbgk1tdehb3comdkt5if8cv0bi95nr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbWLxVNRHeGBI8frQW5yCVSNknaV3NdtQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>629891743180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.growMeApp</string>
+	<key>PROJECT_ID</key>
+	<string>growme-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>growme-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:629891743180:ios:f43ce94d19eb0dfe0cf169</string>
+	<key>DATABASE_URL</key>
+	<string>https://growme-flutter.firebaseio.com</string>
+</dict>
+</plist>
